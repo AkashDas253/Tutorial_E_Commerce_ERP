@@ -1,5 +1,99 @@
 # **Suggestions**  
 
+---
+
+## **Short Questions**
+
+**What is the main difference between a firewall and an antivirus?**  
+A firewall monitors and controls network traffic, preventing unauthorized access, while an antivirus detects and removes malware from a system.  
+
+**Is a firewall a software or hardware?**  
+A firewall can be both software (installed on devices) or hardware (dedicated network security appliances).  
+
+**What are the 4C’s in e-commerce?**  
+The 4C’s are **Convergence, Collaborative Computing, Content Management, and Call Center.**  
+
+**How does convergence impact e-commerce?**  
+Convergence integrates computing, telecommunications, and multimedia, allowing seamless communication and data sharing in e-commerce.  
+
+**What is collaborative computing in e-commerce?**  
+It involves multiple users working together on shared data and applications, such as collaborative product development and contract management.  
+
+**What is the role of content management in e-commerce?**  
+It deals with creating, managing, and distributing digital content, including web traffic management and content marketing.  
+
+**How does a call center support e-commerce businesses?**  
+A call center handles customer inquiries, complaints, and sales, improving customer support and satisfaction.  
+
+**What are the different types of E-Logistics?**  
+E-Logistics includes **Inbound Logistics, Outbound Logistics, Reverse Logistics, and Third-Party Logistics (3PL).**  
+
+**How does e-commerce impact logistics operations?**  
+E-commerce increases demand for faster delivery, real-time tracking, warehouse automation, and global supply chain integration.  
+
+**What is the transaction flow in an E-Cash system?**  
+It involves user authentication, digital wallet selection, payment processing, verification by the merchant, and transaction completion.  
+
+**What are the key steps in an RSA system?**  
+RSA involves selecting prime numbers, computing the modulus, generating public and private keys, encrypting messages, and decrypting them.  
+
+**How do you calculate public and private keys in RSA?**  
+Public key is $(e, n)$, where $n = p \times q$, and private key is $(d, n)$, where $d$ is computed using modular inverse of $e$.  
+
+**What are the components of EDI software?**  
+EDI includes **Standards, Protocols, Communication Networks, and Security Mechanisms** to facilitate electronic transactions.  
+
+**What are the key features of EDI?**  
+EDI automates business transactions, reduces paperwork, improves efficiency, and ensures secure data exchange.  
+
+**How does EDI improve business transactions?**  
+It speeds up order processing, reduces human errors, and enhances supply chain management.  
+
+**What is the difference between symmetric and asymmetric cryptography?**  
+Symmetric cryptography uses a single key for encryption and decryption, while asymmetric cryptography uses a public-private key pair.  
+
+**Which cryptography method uses a single key for encryption and decryption?**  
+Symmetric key cryptography, such as AES and DES, uses one key for both encryption and decryption.  
+
+**What is the advantage of asymmetric cryptography over symmetric cryptography?**  
+Asymmetric cryptography provides secure key exchange without needing a shared secret key, making it more secure for communications.  
+
+**What is C2C e-commerce?**  
+Consumer-to-Consumer (C2C) e-commerce involves individuals selling products or services directly to other consumers via online platforms.  
+
+**Give an example of a C2C e-commerce platform.**  
+eBay, OLX, and Facebook Marketplace are popular C2C platforms where users buy and sell items.  
+
+**What is the importance of web security in e-commerce?**  
+Web security protects sensitive data, prevents cyber threats, and ensures safe online transactions.  
+
+**How do digital signatures enhance security in e-commerce?**  
+Digital signatures verify the authenticity and integrity of online transactions, preventing fraud and data tampering.  
+
+**What role does encryption play in online payments?**  
+Encryption secures financial transactions by encoding sensitive data, ensuring confidentiality and security.  
+
+**What are the threats to e-commerce security?**  
+Threats include phishing, hacking, malware attacks, identity theft, and data breaches.  
+
+**What is a digital certificate in cryptography?**  
+A digital certificate is an electronic document issued by a Certificate Authority (CA) that verifies the identity of a website or user.  
+
+**What is E-Governance in e-commerce?**  
+E-Governance refers to using electronic platforms to deliver government services, improve transparency, and enhance public administration.  
+
+**How does an EDI transaction take place?**  
+EDI transactions occur through standardized electronic documents exchanged between businesses over secure networks.  
+
+**What are the benefits of ERP in business?**  
+ERP improves business efficiency, automates workflows, integrates departments, and enhances data-driven decision-making.  
+
+**What is the role of SAP in ERP?**  
+SAP provides enterprise resource planning software that integrates business processes like finance, HR, and supply chain management.  
+
+
+---
+
 ## **1. Write the difference between firewall and antivirus? Is firewall a software or hardware?**  
 
 **Ans:**  
